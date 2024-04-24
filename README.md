@@ -3,4 +3,4 @@
 
 2) [Implementation of Matrix Factorization using GD & Implementation of Matrix Factorization using SVD in ScikitSurprise](https://github.com/KenzyAggour/Recommender-Systems/blob/main/MatrixFactorization_using_GD_%26_SVD.ipynb)
 
-3) [Context aware recommenders](https://github.com/KenzyAggour/Recommender-Systems/blob/main/Context%20aware%20recommenders.ipynb) 
+3) [Context aware recommenders using Pytorch](https://github.com/KenzyAggour/Recommender-Systems/blob/main/Context%20aware%20recommenders.ipynb) 
